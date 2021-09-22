@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Testingapps</string>
+    <string name="greeting">Haloo Welcome!!</string>
+    <string name="calculator">calculator</string>
+    <string name="firstnum">First number</string>
+    <string name="secondnum">Second number</string>
+    <string name="operation">Operation</string>
+    <string name="count">count</string>
+    <string name="calresul">Result:</string>
+</resources>
